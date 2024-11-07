@@ -1,0 +1,33 @@
+Nome do jogador 1: Jogador 1 
+
+Nome do jogador 2: Jogador 2 
+
+Capacidade da mochila: 10 
+ 
+Tamanho do cenário: 10
+
+Quantidade de pedra: 
+4
+
+Probabilidade de fruta bixada: 5 
+ 
+Quantidade de arvores de laranja: 3
+Quantidade de laranjas no chão: 3 
+
+Quantidade de arvores de abacate: 3 
+Quantidade de abacates no chão:  3 
+
+Quantidade de arvores de coco: 2 
+Quantidade de cocos no chão:  1 
+
+Quantidade de arvores de acerola: 2 
+Quantidade de acerolas no chão: 1 
+
+Quantidade de arvores de amora: 2 
+Quantidade de amoras no chão:  1 
+ 
+Quantidade de arvores de goiaba: 2 
+Quantidade de goiabas no chão:  1 
+ 
+Quantidade de arvores de maracuja: 2 
+Quantidade de maracujas no chão:  1 
