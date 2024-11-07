@@ -57,5 +57,5 @@ Isto é apenas uma breve descrição do jogo e seu funcionamento, para mais deta
 Professora: Beatriz Trinchão Andrade 
 Colaboração: prof. André Britto e Mislene Nunes
 
-# Autores do código fonte do Jogo
+# Autor do código fonte do Jogo
 David Alessandro Santos Souza
