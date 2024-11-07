@@ -1,6 +1,6 @@
 # Jogo-Cata-Frutas
 
-Este Jogo é um projeto acadêmico para avaliação da matéria de Programação Orientada a Objetos em Java.
+Este Jogo é um projeto acadêmico para avaliação da matéria de Programação Orientada a Objetos em Java com o intuito de aprendizado e prática dos conehcimentos do paradigma orientado a objetos.
 
 O jogo tem como ideia dois jogadres que irão competir entre si, onde os competidores irão catar frutas e guarda-las em sua mochila, algumas das frutas tem um efeito especial, mas para vencer, é necessário ter mais da metade da fruta ouro definida na configuração do jogo.
 
